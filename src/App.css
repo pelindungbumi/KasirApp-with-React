@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.category-aktif{
+  background-color: #F46F25;
+  color:white;
+}
